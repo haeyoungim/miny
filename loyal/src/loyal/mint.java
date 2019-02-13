@@ -4,7 +4,7 @@ public class mint {
 	
 	public static void main(String[] args) {
 		
-		String ok = "Ä«Æä24½ÅÀÔ»ý";
+		String ok = "ê³¼ì—°";
 	}
 
 }
